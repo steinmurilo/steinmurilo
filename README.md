@@ -8,7 +8,10 @@ I'm a passionate Frontend Developer specializing in React JS with TypeScript.
 - TypeScript
 - HTML/CSS
 - Git & GitHub
-- [Add any other technologies/tools you want to highlight]
+- Java
+- NodeJs
+- React Native
+- Webflow
 
 ## 🎮 Gaming Enthusiast
 
