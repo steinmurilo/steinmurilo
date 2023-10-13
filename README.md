@@ -1,9 +1,27 @@
-### Hi there! 😁
+# Hi there! 👋 I'm Murilo Stein
 
-My name is Murilo Stein from Brazil (🇧🇷). Former Software Engineer at [John Deere](https://www.deere.com.br/pt/index.html) Looking for new positions.
+I'm a passionate Frontend Developer specializing in React JS with TypeScript.
 
-In my free time I like to play (and watch) Dota, to watch movies and series, to listen to music and eventually I like to share a beer with friends.
+## 🚀 Technologies & Tools
 
-Would you like to find me?
+- React JS
+- TypeScript
+- HTML/CSS
+- Git & GitHub
+- [Add any other technologies/tools you want to highlight]
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steinmurilo)](https://www.linkedin.com/in/steinmurilo/)
+## 🎮 Gaming Enthusiast
+
+I'm not just a developer, but also a dedicated gamer. Whether it's exploring fantastical worlds or competing in intense battles, I find joy in every aspect of gaming.
+
+## 🍻 Socializing over Beers
+
+There's nothing quite like the camaraderie that comes from sharing a few beers with friends. It's the perfect way to unwind and forge lasting memories.
+
+## 📫 Get in Touch
+
+- GitHub: [github.com/steinmurilo](https://github.com/steinmurilo)
+- LinkedIn: [linkedin.com/in/steinmurilo](https://linkedin.com/in/steinmurilo)
+- Email: your@email.com
+
+Feel free to reach out if you want to chat about code, gaming, or just grab a beer together! 🍻
