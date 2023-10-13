@@ -25,6 +25,6 @@ There's nothing quite like the camaraderie that comes from sharing a few beers w
 
 - GitHub: [github.com/steinmurilo](https://github.com/steinmurilo)
 - LinkedIn: [linkedin.com/in/steinmurilo](https://linkedin.com/in/steinmurilo)
-- Email: your@email.com
+- Email: murilo.r.stein@gmail.com
 
 Feel free to reach out if you want to chat about code, gaming, or just grab a beer together! 🍻
