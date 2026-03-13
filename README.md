@@ -1,30 +1,73 @@
-# Hi there! 👋 I'm Murilo Stein
+# Hi there 👋 I'm Murilo Stein
 
-I'm a passionate Frontend Developer specializing in React JS with TypeScript.
+Frontend Engineer with **5+ years of experience building scalable web applications** using modern JavaScript ecosystems.
 
-## 🚀 Technologies & Tools
+I specialize in **React, TypeScript and Next.js**, focusing on performance, scalability and maintainable frontend architectures.
 
-- React JS
+I have experience working on **large enterprise systems**, contributing to modernization initiatives, cloud migrations and high-scale platforms.
+
+---
+
+# 🚀 Tech Stack
+
+### Frontend
+- React
 - TypeScript
-- HTML/CSS
-- Git & GitHub
+- Next.js
+- JavaScript
+- HTML5
+- CSS3
+
+### Backend & Integration
+- Node.js
 - Java
-- NodeJs
-- React Native
-- Webflow
+- Spring Boot (integration)
 
-## 🎮 Gaming Enthusiast
+### Testing
+- Cypress
+- Selenium
+- Automated Testing
 
-I'm not just a developer, but also a dedicated gamer. Whether it's exploring fantastical worlds or competing in intense battles, I find joy in every aspect of gaming.
+### Cloud & DevOps
+- AWS
+- CI/CD (GitHub Actions)
+- Git & GitHub
 
-## 🍻 Socializing over Beers
+---
 
-There's nothing quite like the camaraderie that comes from sharing a few beers with friends. It's the perfect way to unwind and forge lasting memories.
+# 💼 Professional Experience
 
-## 📫 Get in Touch
+I have worked on large-scale systems used by thousands of users in enterprise environments.
 
-- GitHub: [github.com/steinmurilo](https://github.com/steinmurilo)
-- LinkedIn: [linkedin.com/in/steinmurilo](https://linkedin.com/in/steinmurilo)
-- Email: murilo.r.stein@gmail.com
+Some highlights:
 
-Feel free to reach out if you want to chat about code, gaming, or just grab a beer together! 🍻
+• Contributed to the **migration of 70+ legacy applications to AWS containerized environments**
+
+• Participated in the **modernization of 10+ enterprise applications using React + TypeScript**
+
+• Developed **5000+ automated tests**, reducing execution time by **90%**
+
+• Built scalable frontend features integrated with **Spring Boot microservices**
+
+---
+
+# 🎮 Interests
+
+Outside of work, I enjoy:
+
+🎮 Gaming  
+🎥 Creating gaming content  
+🍻 Spending time with friends
+
+---
+
+# 📫 Connect with me
+
+💼 LinkedIn  
+https://linkedin.com/in/steinmurilo
+
+📧 Email  
+murilo.r.stein@gmail.com
+
+💻 GitHub  
+https://github.com/steinmurilo
